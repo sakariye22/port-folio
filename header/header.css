@@ -1,7 +1,15 @@
 body{
-    background-color:crimson;
+    background-color:lightgoldenrodyellow;
 }
 #title-color{
     color:darkgreen;
     font-family: fantasy;
+    font-size: 20px;
+    margin-right: 65%;
+    justify-content: center;
+    display:flex;
+}
+li{
+    display:inline-block;
+    margin-right:42px;
 }
